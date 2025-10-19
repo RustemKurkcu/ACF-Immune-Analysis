@@ -1,2 +1,2 @@
-# ACF-Immune-Analysis
-Immune gene expression analysis in aberrant crypt foci (ACF
+﻿# ACF Immune Analysis
+Project scaffold and LFS rules.
